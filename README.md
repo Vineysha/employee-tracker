@@ -7,12 +7,7 @@ This MySQL database is designed to manage employee information within an organiz
 ## Installation
 
 1. Clone this repository to your local machine.
-2. Install dependencies by running: 
-    a. npm install
-    b. npm i inquirer@8.2.4
-    c. npm install console.table
-    d. npm i mysql
-    e. npm i mysql2
+2. Install dependencies by running: npm install, npm i inquirer@8.2.4, npm install console.table, npm i mysql, and npm i mysql2.
 
 ## Usage
 
